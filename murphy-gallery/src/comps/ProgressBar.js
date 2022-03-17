@@ -3,7 +3,7 @@ import useStorage from '../hooks/useStorage'
 
 const ProgressBar = () => {
   return (
-    <div className='progress-bar'>ProgressBar</div>
+    <div className='progress-bar'>Progress Bar</div>
   )
 }
 
